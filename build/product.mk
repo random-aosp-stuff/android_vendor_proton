@@ -103,6 +103,8 @@ PRODUCT_PRODUCT_PROPERTIES += \
     ro.com.google.ime.kb_pad_port_r=4 \
     ro.com.google.ime.kb_pad_land_l=64 \
     ro.com.google.ime.kb_pad_land_r=64 \
+    ro.com.google.ime.kb_pad_port_b=0 \
+    ro.com.google.ime.kb_pad_land_b=0 \
 
 # Blur
 PRODUCT_SYSTEM_DEFAULT_PROPERTIES += \
